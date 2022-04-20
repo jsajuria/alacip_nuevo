@@ -1,0 +1,61 @@
+baseURL = "/"
+themesDir = "themes"
+languageCode = "es-cl"
+theme = "hugo-hero-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.92.0"
+    
+[params]
+  google_analytics_id=""
+
+  [params.logo]
+    mobile = "images/logo_alacip.svg"
+    mobile_height = "36px"
+    mobile_width = "36px"
+    desktop = "images/logo_alacip.svg"
+    desktop_height = "29px"
+    desktop_width = "217px"
+    alt = "ALACIP 2022"
+
+  [params.homepage_meta_tags]
+    meta_description = "XI Congreso Latinoamericano de Ciencia Política -  ALACIP 2022"
+    meta_og_title = "Alacip 2022"
+    meta_og_type = "website"
+    meta_og_url = "https://alacip2022.org"
+    meta_og_image = ""
+    meta_og_description = "XI Congreso Latinoamericano de Ciencia Política -  ALACIP 2022"
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@accpchile"
+    meta_twitter_creator = "@accpchile"
+
+[[menu.main]]
+	name = "Registro"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Lanzamiento de Libros"
+    url = "/work/"
+    weight = 2
+
+[[menu.main]]
+    name = "Programa"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Cronograma y Reglas"
+    url = "/history/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contacto"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
