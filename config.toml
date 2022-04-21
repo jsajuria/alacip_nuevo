@@ -48,7 +48,7 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
     name = "Cronograma y Reglas"
-    url = "/history/"
+    url = "/work/"
     weight = 3
 
 [[menu.main]]
