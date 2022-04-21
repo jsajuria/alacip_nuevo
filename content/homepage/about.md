@@ -1,9 +1,15 @@
 ---
-title: 'Our Difference'
+title: 'Organizadores'
 weight: 2
 background: ''
-button: 'About Us'
+button: 'Equipo'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+El XI Congreso Latinoamericano de Ciencia Política está organizado por:
+
+[www.accp.cl](Asociación Chilena de Ciencia Política)
+
+[www.alacip.org](Asociación Latinoamericana de Ciencia Política)
+
+Además, agradecemos el apoyo del [https://pee.udec.cl/](Programa de Estudios Europeos de la Universidad de Concepción.)
