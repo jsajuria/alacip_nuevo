@@ -33,7 +33,7 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
 	name = "Registro"
-	url = "/services/"
+	url = "/test/"
     weight = 1
 
 [[menu.main]]
