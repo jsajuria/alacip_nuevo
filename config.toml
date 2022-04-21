@@ -38,7 +38,7 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
     name = "Lanzamiento de Libros"
-    url = "/work/"
+    url = "/libros/"
     weight = 2
 
 [[menu.main]]
