@@ -19,9 +19,10 @@ $white: #ffffff;
 $black: #000000;
 $primary: #1c3ed3;
 $secondary: #43454d;
+$tertiary: #b5318b;
 
 // Links
-$link-color: $primary;
+$link-color: $tertiary;
 $link-decoration: none;
 $link-hover-color: lighten($primary, 20%);
 $link-hover-decoration: underline;
