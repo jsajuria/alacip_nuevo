@@ -8,4 +8,3 @@ El plazo de postulación vence el 29 de abril de 2022.'
 heroBackground: ''
 ---
 
-<iframe class="registration" src="https://qmulhss.eu.qualtrics.com/jfe/form/SV_4MIVU6NQYc5rboO"></iframe>
