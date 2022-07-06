@@ -6,7 +6,7 @@ date: 2022-07-06T17:01:34+07:00
 Para enviar sus ponencias, por favor ocupe el [siguiente formulario](https://forms.gle/yxWrVJH9FsRUjAwD9)
 
 
-###[**Descarga la versión preliminar del programa**](Programa_preliminar.pdf)
+### [**Descarga la versión preliminar del programa**](Programa_preliminar.pdf)
 
 
 
@@ -19,7 +19,7 @@ Para enviar sus ponencias, por favor ocupe el [siguiente formulario](https://for
 >
 >Pero nuestro objetivo siempre ha sido recuperar la interacción física que, con su insustituible riqueza, favorece el desarrollo de nuestra disciplina, ahora combinada con las herramientas virtuales. Poco a poco la actividad académica ha ido reincorporando la presencialidad en nuestra región, aunque, lamentablemente, el proceso ha sido lento y heterogéneo. En particular este congreso, que resolvimos realizar de forma virtual, responde al nivel de incertidumbre sobre las posibilidades de la presencialidad al momento de tener que tomar la decisión y a las nuevas posibilidades que nos brindan las plataformas digitales. A pesar de las limitaciones que implica, confiamos plenamente en que tendremos un gran congreso latinoamericano de ciencia política 20 años después de nuestra fundación, que colocará un nuevo mojón en nuestro indetenible camino para promover una ciencia política de calidad y comprometida con la democracia y el bienestar social en nuestra región.
 
-**Daniel Buquet**
+**Daniel Buquet**  
 Secretario General ALACIP
 
 ---
@@ -32,5 +32,5 @@ Secretario General ALACIP
 
 >A nombre de la Asociación Chilena de Ciencia Política, les damos la bienvenida al XI Congreso Latinoamericano de Ciencia Política. Esperamos que puedan compartir, conversar y aprender del increíble desarrollo de nuestras disciplinas en el continente y más allá.
 
-**Javier Sajuria**
+**Javier Sajuria**  
 Presidente ACCP
