@@ -4,7 +4,7 @@ date: 2022-07-06T17:01:34+07:00
 heroHeading: 'Programa'
 ---
 
-![](banner.jpg)
+![](banner.png)
 
 Para enviar sus ponencias, por favor ocupe el [siguiente formulario](https://forms.gle/yxWrVJH9FsRUjAwD9)
 
