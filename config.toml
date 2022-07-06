@@ -43,8 +43,8 @@ theme = "hugo-hero-theme"
     weight = 2
 
 [[menu.main]]
-    name = "Cronograma y Reglas"
-    url = "/work/"
+    name = "Cronograma"
+    url = "/cronograma/"
     weight = 3
 
 [[menu.main]]
