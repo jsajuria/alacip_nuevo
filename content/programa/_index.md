@@ -13,7 +13,7 @@ Para enviar sus ponencias, por favor ocupe el [siguiente formulario](https://for
 
 ---
 
-<img src="buquet.png" width="200" height="100">
+![](buquet.png)
 
 >La comunidad de la Ciencia Política latinoamericana ha vivido un periodo de grandes dificultades en los últimos tiempos. En un contexto regional convulsionado por movilizaciones populares e inestabilidad política, irrumpió la pandemia de Covid-19 agregando incertidumbre, dificultades económicas y consecuencias sociales negativas. En el caso de ALACIP, luego de nuestro congreso en Monterrey, buscamos adaptarnos a la nueva situación. Por un lado, acordamos postergar la realización del congreso previsto para 2021 en Santiago de Chile. Pero, al mismo tiempo, buscamos aprovechar el uso creciente de las tecnologías de la comunicación para mantener activa a la asociación y reforzar el vínculo con nuestra comunidad a través de diversas actividades on-line. Los tiempos difíciles constituyen desafíos que, cuando son adecuadamente enfrentados, pueden resultar en avances que nos llevan a escalones superiores de nuestra actividad.
 >
