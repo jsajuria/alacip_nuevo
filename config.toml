@@ -43,7 +43,7 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
     name = "Programa"
-    url = "/about/"
+    url = "/programa/"
     weight = 3
 
 [[menu.main]]
