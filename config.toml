@@ -36,15 +36,11 @@ theme = "hugo-hero-theme"
 	url = "/services/"
     weight = 1
 
-[[menu.main]]
-    name = "Lanzamiento de Libros"
-    url = "/history/"
-    weight = 2
 
 [[menu.main]]
     name = "Programa"
     url = "/programa/"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     name = "Cronograma y Reglas"
