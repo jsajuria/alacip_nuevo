@@ -6,7 +6,7 @@ date: 2022-07-06T17:01:34+07:00
 Para enviar sus ponencias, por favor ocupe el [siguiente formulario](https://forms.gle/yxWrVJH9FsRUjAwD9)
 
 
-
+###[**Descarga la versión preliminar del programa**](Programa_preliminar.pdf)
 
 
 
@@ -23,6 +23,8 @@ Para enviar sus ponencias, por favor ocupe el [siguiente formulario](https://for
 Secretario General ALACIP
 
 ---
+
+![](sajuria.png)
 
 >Finalmente nos volvemos a encontrar. Luego de años difíciles en el mundo, nuestras disciplinas se han vuelto más relevantes que nunca. La pandemia y sus consecuencias han puesto en jaque a nuestras frágiles institucionalidades políticas, exigiendo soluciones que van más allá de la simple gestión. La política, si es que alguna vez dejó de serlo, volvió a tomar un rol clave en la comprensión y solución de nuestros problemas actuales. Hoy, enfrentados a preguntas como el (re)surgimiento de los populismos, los debates sobre el rol del colonialismo, las preguntas sobre el sentido de las instituciones o la relevancia de la emergencia climática, tenemos la oportunidad de volver a juntarnos a compartir nuestros análisis y propuestas.
 >
