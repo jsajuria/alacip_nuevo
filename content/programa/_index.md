@@ -11,7 +11,7 @@ Para enviar sus ponencias, por favor ocupe el [siguiente formulario](https://for
 
 
 
-## Presentaciones
+---
 
 <img src="buquet.png" width="200" height="100">
 
