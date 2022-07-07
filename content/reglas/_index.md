@@ -35,30 +35,31 @@ Podrán ser enviados trabajos en los idiomas portugués, español e inglés.
 
 Las propuestas deberán indicar el eje temático al que van dirigidas. Cada propuesta debe ser presentada para un sólo eje temático, aquellas que no lo indiquen serán descalificadas. Únicamente el o la coordinadora de eje podrá decidir la pertinencia de cambiar el trabajo a otro eje temático.
 
-1. Movimientos Sociales, Actores Sociales y Ciudadanía
-1. Comportamiento Político Electoral y Liderazgos
-1. Democracia, Democratización y Calidad de la Democracia
-1. Economía Política, Política Internacional y Relaciones Internacionales
-1. Estudios Legislativos y Poderes Ejecutivos
-1. Producción y Enseñanza de la Ciencia Política
-1. Métodos de Investigación en Estudios Políticos y Sociales
-1. Partidos y Sistemas de Partidos
-1. Poder Judicial, Judicialización de la Política, Justicia Transicional
-1. Historia Política
-1. Federalismo, Descentralización y Política Local
-1. Género, Diversidades, Disidencias, Juventudes y Violencias
-1. Administración y Políticas Públicas
-1. Filosofía y Teoría Política
-1. Derechos Humanos y Reformas Constitucionales
-1. Religión, Laicidad, Ética e Ideología
-1. Regionalismos y Análisis de Política Exterior
-1. Comunicación Política, Opinión Pública y Redes Sociales
-1. Transparencia, Corrupción y Rendición de Cuentas
-1. Prevención, Seguridad Pública y Estado de Derecho
-1. Política Municipal, Desarrollo Urbano y Rural, Ciudades Incluyentes y Sostenibilidad
-1. Migraciones y Desplazamientos Regionales, Nacionales e Internacionales
-1. Políticas de salud y pandemia
-1. Los ponentes podrán presentar un máximo de 2 ponencias.
+1. Movimientos Sociales, Actores Sociales y Ciudadanía 
+1. Comportamiento Político Electoral y Liderazgos 
+1. Democracia, Democratización y Calidad de la Democracia 
+1. Economía Política, Política Internacional y Relaciones Internacionales 
+1. Estudios Legislativos y Poderes Ejecutivos 
+1. Producción y Enseñanza de la Ciencia Política 
+1. Métodos de Investigación en Estudios Políticos y Sociales 
+1. Partidos y Sistemas de Partidos 
+1. Poder Judicial, Judicialización de la Política, Justicia Transicional 
+1. Historia Política 
+1. Federalismo, Descentralización y Política Local 
+1. Género, Diversidades, Disidencias, Juventudes y Violencias 
+1. Administración y Políticas Públicas 
+1. Filosofía y Teoría Política 
+1. Derechos Humanos y Reformas Constitucionales 
+1. Religión, Laicidad, Ética e Ideología 
+1. Regionalismos y Análisis de Política Exterior 
+1. Comunicación Política, Opinión Pública y Redes Sociales 
+1. Transparencia, Corrupción y Rendición de Cuentas 
+1. Prevención, Seguridad Pública y Estado de Derecho 
+1. Política Municipal, Desarrollo Urbano y Rural, Ciudades Incluyentes y Sostenibilidad 
+1. Migraciones y Desplazamientos Regionales, Nacionales e Internacionales 
+1. Políticas de salud y pandemia 
+
+Los ponentes podrán presentar un máximo de 2 ponencias.
 
 ## 6. PONENCIAS CON COAUTORÍA
 
