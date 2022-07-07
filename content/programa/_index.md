@@ -6,7 +6,7 @@ heroHeading: 'Programa'
 
 ![](banner.png)
 
-Para enviar sus ponencias, por favor ocupe el [siguiente formulario](https://forms.gle/yxWrVJH9FsRUjAwD9)
+Para enviar sus ponencias, por favor utilice el [siguiente formulario](https://forms.gle/yxWrVJH9FsRUjAwD9)
 
 
 ### [**Descarga la versión preliminar del programa**](Programa_preliminar.pdf)

@@ -6,6 +6,11 @@ heroHeading: 'Registro'
 
 ![](banner.png)
 
+---
+
+### Para conseguir o renovar su membresía a ALACIP, utilice el siguiente [link](https://member.alacip.org/subscription-plan/). 
+
+
 ### Para acceder al formulario de registro en la plataforma Hopin, por favor use el [siguiente link](https://registration.hopin.com/widgets/registration/alacip-2022?widget_id=ArYzNgVlG1SAlcCYUOn7UyRy7)
 
 **Hopin funciona con los navegadores Chrome y Firefox, por favor asegúrese de tenerlos instalados**
