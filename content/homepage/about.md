@@ -2,9 +2,7 @@
 title: 'Organizadores'
 weight: 2
 background: ''
-<!--- This is an HTML comment in Markdown 
-button: 'Equipo'
-buttonLink: 'about' -->
+
 ---
 
 El XI Congreso Latinoamericano de Ciencia Política está organizado por:
