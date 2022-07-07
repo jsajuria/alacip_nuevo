@@ -4,11 +4,11 @@ date: 2022-07-06T17:01:34+07:00
 heroHeading: 'Programa'
 ---
 
-
+![](banner.png)
 
 ## 1. INDICACIONES GENERALES
 
-Para participar en el XI Congreso Latinoamericano de Ciencia Política se deben seguir las reglas de la convocatoria, y enviar su propuesta de ponencia en el sitio web del congreso: [](www.alacip2022.org). No serán aceptadas ponencias enviadas por e-mail. Para consultas o dudas enviar correo a: alacip2022@alacip2022.org. 
+Para participar en el XI Congreso Latinoamericano de Ciencia Política se deben seguir las reglas de la convocatoria, y enviar su propuesta de ponencia en el sitio web del congreso: [www.alacip2022.org](www.alacip2022.org). No serán aceptadas ponencias enviadas por e-mail. Para consultas o dudas enviar correo a: alacip2022@alacip2022.org. 
 
 Luego de efectuada la postulación y de haber recibido una notificación de aceptación de su ponencia o panel debe proceder a realizar los pagos de inscripción al congreso y la membresía de ALACIP de acuerdo al cronograma establecido. Ambos pagos son obligatorios para poder participar en el congreso, aparecer en el programa y recibir una constancia oficial.
 
@@ -36,28 +36,28 @@ Podrán ser enviados trabajos en los idiomas portugués, español e inglés.
 Las propuestas deberán indicar el eje temático al que van dirigidas. Cada propuesta debe ser presentada para un sólo eje temático, aquellas que no lo indiquen serán descalificadas. Únicamente el o la coordinadora de eje podrá decidir la pertinencia de cambiar el trabajo a otro eje temático.
 
 	1. Movimientos Sociales, Actores Sociales y Ciudadanía 
-	1. Comportamiento Político Electoral y Liderazgos 
-	1. Democracia, Democratización y Calidad de la Democracia 
-	1. Economía Política, Política Internacional y Relaciones Internacionales 
-	1. Estudios Legislativos y Poderes Ejecutivos 
-	1. Producción y Enseñanza de la Ciencia Política 
-	1. Métodos de Investigación en Estudios Políticos y Sociales 
-	1. Partidos y Sistemas de Partidos 
-	1. Poder Judicial, Judicialización de la Política, Justicia Transicional 
-	1. Historia Política 
-	1. Federalismo, Descentralización y Política Local 
-	1. Género, Diversidades, Disidencias, Juventudes y Violencias 
-	1. Administración y Políticas Públicas 
-	1. Filosofía y Teoría Política 
-	1. Derechos Humanos y Reformas Constitucionales 
-	1. Religión, Laicidad, Ética e Ideología 
-	1. Regionalismos y Análisis de Política Exterior 
-	1. Comunicación Política, Opinión Pública y Redes Sociales 
-	1. Transparencia, Corrupción y Rendición de Cuentas 
-	1. Prevención, Seguridad Pública y Estado de Derecho 
-	1. Política Municipal, Desarrollo Urbano y Rural, Ciudades Incluyentes y Sostenibilidad 
-	1. Migraciones y Desplazamientos Regionales, Nacionales e Internacionales 
-	1. Políticas de salud y pandemia 
+	2. Comportamiento Político Electoral y Liderazgos 
+	3. Democracia, Democratización y Calidad de la Democracia 
+	4. Economía Política, Política Internacional y Relaciones Internacionales 
+	5. Estudios Legislativos y Poderes Ejecutivos 
+	6. Producción y Enseñanza de la Ciencia Política 
+	7. Métodos de Investigación en Estudios Políticos y Sociales 
+	8. Partidos y Sistemas de Partidos 
+	9. Poder Judicial, Judicialización de la Política, Justicia Transicional 
+	10. Historia Política 
+	11. Federalismo, Descentralización y Política Local 
+	12. Género, Diversidades, Disidencias, Juventudes y Violencias 
+	13. Administración y Políticas Públicas 
+	14. Filosofía y Teoría Política 
+	15. Derechos Humanos y Reformas Constitucionales 
+	16. Religión, Laicidad, Ética e Ideología 
+	17. Regionalismos y Análisis de Política Exterior 
+	18. Comunicación Política, Opinión Pública y Redes Sociales 
+	19. Transparencia, Corrupción y Rendición de Cuentas 
+	20. Prevención, Seguridad Pública y Estado de Derecho 
+	21. Política Municipal, Desarrollo Urbano y Rural, Ciudades Incluyentes y Sostenibilidad 
+	22. Migraciones y Desplazamientos Regionales, Nacionales e Internacionales 
+	23. Políticas de salud y pandemia 
 
 
 Los ponentes podrán presentar un máximo de 2 ponencias.
@@ -134,4 +134,4 @@ Las constancias serán enviadas vía correo electrónico al menos 20 días hábi
 Los pagos de inscripción serán facturados de la siguiente manera:
 
 La facturación de la membresía quedará a cargo de ALACIP; podrán descargarlas directamente desde Paypal o solicitarlas por email a alacip@alacip.org.
-La facturación de la inscripción al Congreso quedará a cargo de ACCP; también se podrán descargar vía Hopin o solicitarlas por email a alacip2022@alacip2022.org. ¬†
+La facturación de la inscripción al Congreso quedará a cargo de ACCP; también se podrán descargar vía Hopin o solicitarlas por email a alacip2022@alacip2022.org.
