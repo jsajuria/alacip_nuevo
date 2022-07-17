@@ -9,7 +9,7 @@ heroHeading: 'Programa'
 Para enviar sus ponencias, por favor utilice el [siguiente formulario](https://forms.gle/yxWrVJH9FsRUjAwD9)
 
 
-### [**Descarga la versión preliminar del programa**](Programa_preliminar.pdf)
+### [**Descarga el programa del Congreso**](Programa_preliminar.pdf)
 
 
 
