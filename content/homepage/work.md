@@ -2,8 +2,8 @@
 title: 'Desde América Latina Hacia el Mundo: Transformaciones Políticas Post-pandemia'
 weight: 1
 background: 'images/convocatoria.png'
-button: 'Convocatoria'
-buttonLink: 'work'
+button: 'Reglas'
+buttonLink: 'reglas'
 ---
 
 La Asociación Latinoamericana de Ciencia Política (ALACIP), en coordinación con la Asociación Chilena de Ciencia Política A.G. (ACCP), convocan al XI Congreso Internacional de Ciencia Política, a realizarse de forma online, los días 21, 22 y 23 de julio de 2022.
